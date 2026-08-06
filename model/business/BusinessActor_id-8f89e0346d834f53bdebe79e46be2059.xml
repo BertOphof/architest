@@ -2,4 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CNB"
     id="id-8f89e0346d834f53bdebe79e46be2059"
-    documentation="Cooperatieve Konklijke"/>
+    documentation="Cooperatieve Konklijke Nederlandse Bollencentrale">
+  <profiles
+      href="folder.xml#id-704a6904eef34a50ad4ea4ba08ed31b6"/>
+</archimate:BusinessActor>

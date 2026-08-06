@@ -1,5 +1,10 @@
 <archimate:ArchimateModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(new model)"
+    name="CNB-model"
     id="id-b0e4d08b9dfc4b7aa7ff1d02b39510fc"
-    version="5.0.0"/>
+    version="5.0.0">
+  <profiles
+      name="Organisatie"
+      id="id-704a6904eef34a50ad4ea4ba08ed31b6"
+      conceptType="BusinessActor"/>
+</archimate:ArchimateModel>
