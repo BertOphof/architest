@@ -1,8 +1,7 @@
 <archimate:BusinessActor
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CNB"
-    id="id-8f89e0346d834f53bdebe79e46be2059"
-    documentation="Cooperatieve Konklijke Nederlandse Bollencentrale">
+    name="BVS BV"
+    id="id-c8822cecc1314c8e8b897fe8e4917a93">
   <profiles
       href="folder.xml#id-704a6904eef34a50ad4ea4ba08ed31b6"/>
 </archimate:BusinessActor>

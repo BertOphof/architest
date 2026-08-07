@@ -1,0 +1,8 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Organizations"
+    id="id-2443aaa809d846c0a9645607bff64f35">
+  <features
+      name="labelExpression"
+      value="${name}${if:${specialization}:\n«${specialization}»}"/>
+</archimate:Folder>
