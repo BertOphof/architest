@@ -1,0 +1,14 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Office365"
+    id="id-74c4cfa5fa994bbea6ef0e062c722da7">
+  <properties
+      key="Bedrijfskritisch"
+      value="Ja"/>
+  <properties
+      key="Bedrijfsproces"
+      value="Ondersteunend"/>
+  <properties
+      key="Technologie"
+      value="Onbekend"/>
+</archimate:ApplicationComponent>

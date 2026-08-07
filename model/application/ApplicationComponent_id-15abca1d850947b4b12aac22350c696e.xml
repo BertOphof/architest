@@ -1,0 +1,16 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Mijn CNB"
+    id="id-15abca1d850947b4b12aac22350c696e">
+  <properties
+      key="Bedrijfskritisch"
+      value="Ja"/>
+  <properties
+      key="Bedrijfsproces"
+      value="Primair"/>
+  <properties
+      key="Technologie"
+      value="React"/>
+  <profiles
+      href="folder.xml#id-4ae6ac945c2544e6b15f849d501444bc"/>
+</archimate:ApplicationComponent>

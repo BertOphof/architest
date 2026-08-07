@@ -7,4 +7,16 @@
       name="Organisatie"
       id="id-704a6904eef34a50ad4ea4ba08ed31b6"
       conceptType="BusinessActor"/>
+  <profiles
+      name="Microsoft .Net"
+      id="id-10c01f5ed8c94c5787ba89a9dc4bb2d6"
+      conceptType="ApplicationComponent"/>
+  <profiles
+      name="MS Access DB"
+      id="id-0e62c972e4b84f04ba20cdb28f3d9580"
+      conceptType="ApplicationComponent"/>
+  <profiles
+      name="React"
+      id="id-4ae6ac945c2544e6b15f849d501444bc"
+      conceptType="ApplicationComponent"/>
 </archimate:ArchimateModel>

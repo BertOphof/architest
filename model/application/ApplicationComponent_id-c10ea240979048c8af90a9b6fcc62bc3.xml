@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ADP"
+    id="id-c10ea240979048c8af90a9b6fcc62bc3"
+    documentation="Salarisadministratie">
+  <properties
+      key="Bedrijfskritisch"
+      value="Nee"/>
+  <properties
+      key="Bedrijfsproces"
+      value="Ondersteunend"/>
+  <properties
+      key="Technologie"
+      value="Onbekend"/>
+</archimate:ApplicationComponent>

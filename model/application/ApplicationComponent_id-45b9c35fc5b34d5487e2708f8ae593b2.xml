@@ -1,0 +1,16 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BVS"
+    id="id-45b9c35fc5b34d5487e2708f8ae593b2">
+  <properties
+      key="Technologie"
+      value="Microsoft .Net"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Ja"/>
+  <properties
+      key="Bedrijfsproces"
+      value="Primair"/>
+  <profiles
+      href="folder.xml#id-10c01f5ed8c94c5787ba89a9dc4bb2d6"/>
+</archimate:ApplicationComponent>

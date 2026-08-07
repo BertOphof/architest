@@ -1,0 +1,16 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Areaal MS Access db"
+    id="id-5eaec40210dc4563a4d71393b988158a">
+  <properties
+      key="Bedrijfskritisch"
+      value="Ja"/>
+  <properties
+      key="Technologie"
+      value="MS Acess DB"/>
+  <properties
+      key="Bedrijfsproces"
+      value="Primair"/>
+  <profiles
+      href="folder.xml#id-0e62c972e4b84f04ba20cdb28f3d9580"/>
+</archimate:ApplicationComponent>

@@ -236,4 +236,19 @@
         xsi:type="archimate:BusinessActor"
         href="BusinessActor_id-e6d846269af44144a58ed8ea01c5bc0d.xml#id-e6d846269af44144a58ed8ea01c5bc0d"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-69eb3e22be624e759f1288b07cef4242">
+    <features
+        name="labelExpression"
+        value="${name}${if:${specialization}:\n«${specialization}»}"/>
+    <bounds
+        x="316"
+        y="503"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_id-15abca1d850947b4b12aac22350c696e.xml#id-15abca1d850947b4b12aac22350c696e"/>
+  </children>
 </archimate:ArchimateDiagramModel>

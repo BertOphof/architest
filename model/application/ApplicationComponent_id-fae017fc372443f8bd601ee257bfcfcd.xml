@@ -1,0 +1,14 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Rightfax"
+    id="id-fae017fc372443f8bd601ee257bfcfcd">
+  <properties
+      key="Technologie"
+      value="Onbekend"/>
+  <properties
+      key="Bedrijfsproces"
+      value="Primair"/>
+  <properties
+      key="Bedrijfskritisch"
+      value="Ja"/>
+</archimate:ApplicationComponent>

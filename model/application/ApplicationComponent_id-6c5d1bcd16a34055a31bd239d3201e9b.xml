@@ -1,0 +1,15 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VTW"
+    id="id-6c5d1bcd16a34055a31bd239d3201e9b"
+    documentation="Vertgenwoordigers App">
+  <properties
+      key="Bedrijfskritisch"
+      value="Ja"/>
+  <properties
+      key="Bedrijfsproces"
+      value="Primair"/>
+  <properties
+      key="Technologie"
+      value="Onbekend"/>
+</archimate:ApplicationComponent>
