@@ -1,0 +1,7 @@
+<archimate:BusinessActor
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Financiën"
+    id="id-fa87c6c45f404b1e8a16d2d1ecea24b0">
+  <profiles
+      href="folder.xml#id-6fbee10b9518467fbd1181c63762e0f6"/>
+</archimate:BusinessActor>

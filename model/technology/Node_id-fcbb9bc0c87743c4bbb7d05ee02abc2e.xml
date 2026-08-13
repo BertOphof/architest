@@ -1,0 +1,7 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="BC applicatie server"
+    id="id-fcbb9bc0c87743c4bbb7d05ee02abc2e">
+  <profiles
+      href="folder.xml#id-9281975610ca4d89baac59b8b8746b6b"/>
+</archimate:Node>

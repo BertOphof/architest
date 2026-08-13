@@ -19,4 +19,12 @@
       name="React"
       id="id-4ae6ac945c2544e6b15f849d501444bc"
       conceptType="ApplicationComponent"/>
+  <profiles
+      name="Afdeling"
+      id="id-6fbee10b9518467fbd1181c63762e0f6"
+      conceptType="BusinessActor"/>
+  <profiles
+      name="On-premises"
+      id="id-9281975610ca4d89baac59b8b8746b6b"
+      conceptType="Node"/>
 </archimate:ArchimateModel>
